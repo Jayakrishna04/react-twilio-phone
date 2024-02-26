@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-twilio-phone/static/css/main.114a602b.css",
-    "main.js": "/react-twilio-phone/static/js/main.50ff13a4.js",
+    "main.js": "/react-twilio-phone/static/js/main.6005792f.js",
     "index.html": "/react-twilio-phone/index.html",
     "main.114a602b.css.map": "/react-twilio-phone/static/css/main.114a602b.css.map",
-    "main.50ff13a4.js.map": "/react-twilio-phone/static/js/main.50ff13a4.js.map"
+    "main.6005792f.js.map": "/react-twilio-phone/static/js/main.6005792f.js.map"
   },
   "entrypoints": [
     "static/css/main.114a602b.css",
-    "static/js/main.50ff13a4.js"
+    "static/js/main.6005792f.js"
   ]
 }
